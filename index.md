@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Executive Summary
 
-You can use the [editor on GitHub](https://github.com/Klugh/klugh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Experienced software development and DevOps manager with 20+ years of experience delivering advanced software systems for small and large companies.  Strong leadership in the development of modern software solutions through clean, predictable, and testable code utilizing object-oriented design principles.  Full-stack Microsoft developer proficient in developing responsive user interfaces, web applications, web services, and relational database solutions.  Achieving rapid delivery with Azure Cloud Services through continuous integration with Git, automated builds, tests, deployments and scaling using Docker containers within fully managed Kubernetes clusters.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experience includes managing 60+ software professionals over 3 years as a 1st and 2nd level manager and providing individual and team leadership to hundreds more.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.
 
-### Markdown
+Consistently receiving high marks for conducting technical training in object-oriented and component design principles, along with Agile, Lean, and XP practices, including test-driven development and continuous delivery.  Continuing to extend my track record of consistently improving individual and team delivery, along with improvements in quality, predictability, and productivity.  I pride myself in succeeding where others have failed.  My work has impacted some of the world's top brands including Intel, IBM, Bayer, Fiserv, Wells Fargo, Bank of New York, and GoDaddy.com to name a few.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Klugh/klugh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.  I am a big proponent of optimizing software delivery by running applications and services on self-managed containers, which is clearly the biggest advancement in DevOps to date.
