@@ -8,7 +8,7 @@ Consistently receiving high marks for conducting technical training in object-or
 
 My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.  I am a big proponent of optimizing software delivery by running applications and services on self-managed containers, which is clearly the biggest advancement in DevOps to date.
 
-## Training Instruction
+## Technical Training & Development
 
 **Enhancing Software Testability**<br>
 This class examines how to improve the testability of software throughout the development lifecycle; whether through Agile, SAFe, RUP, or Waterfall methodologies.  By examining the attributes of testable software, various methods are reviewed which enhance requirements, designs, code, and tests themselves to improve testability. 
