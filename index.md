@@ -10,6 +10,8 @@ My passion lies in improving team performance, software quality, and productivit
 
 ## Technical Training & Development
 
+The following is a list of courses I teach on a regular basis to uplift team capabilities:
+
 **Enhancing Software Testability**<br>
 This class examines how to improve the testability of software throughout the development lifecycle; whether through Agile, SAFe, RUP, or Waterfall methodologies.  By examining the attributes of testable software, various methods are reviewed which enhance requirements, designs, code, and tests themselves to improve testability. 
 
