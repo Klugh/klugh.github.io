@@ -8,12 +8,12 @@ Consistently receiving high marks for conducting technical training in object-or
 
 My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.  I am a big proponent of optimizing software delivery by running applications and services on self-managed containers, which is clearly the biggest advancement in DevOps to date.
 
-## Technical Training & Development
+## Technical Training & Development Facilitation
 
 The following is a list of courses I teach on a regular basis to uplift team capabilities:
 
 **Enhancing Software Testability**<br>
-This class examines how to improve the testability of software throughout the development lifecycle; whether through Agile, SAFe, RUP, or Waterfall methodologies.  By examining the attributes of testable software, various methods are reviewed which enhance requirements, designs, code, and tests themselves to improve testability. 
+Software testability is impacted by practices throughout the development lifecycle.  This class teaches engineering principles which greatly increase software testability, thereby raising code quality, test coverage, test effectiveness, and productivity, while reducing testing time, defects, and time to market.  Methods for enhancing testability of requirements, design, and software components are taught, along with practices to best utilize test doubles. 
 
 **Principles & Practices of Test-Driven Development**<br>
 This class teaches the principles and practices of Test-Driven Development (TDD) and demonstrates how proper software design evolves through application of the eXtreme Programming principle of Test First.  Unit testing principles are also covered, along with a thorough discussion on the benefits of TDD.An application is developed (from start to finish) during this class to explain step-by-step and demonstrate first-hand how a high quality, testable design evolves by applying the three laws of Test-Driven Development. 
