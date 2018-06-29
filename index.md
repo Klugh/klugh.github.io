@@ -12,8 +12,12 @@ My passion lies in improving team performance, software quality, and productivit
 
 The following is a list of courses I teach on a regular basis to uplift team capabilities:
 
+**Principles & Practices of Software Component Design**<br>
+
 **Principles & Practices of Test-Driven Development**<br>
 This class teaches the principles and practices of Test-Driven Development (TDD) and demonstrates how proper software design evolves through application of the eXtreme Programming principle of Test First.  Unit testing principles are also covered, along with a thorough discussion on the benefits of TDD.  An application is developed (from start to finish) during this class to explain step-by-step and demonstrate first-hand how a high quality, testable design evolves by applying the three laws of Test-Driven Development. 
+
+**The Technical Discipline of Being Agile**<br>
 
 **Enhancing Software Testability**<br>
 Software testability is impacted by practices throughout the development lifecycle.  This class teaches engineering principles which greatly increase software testability, thereby raising code quality, test coverage, test effectiveness, and productivity, while reducing testing time, defects, and time to market.  Methods for enhancing testability of requirements, design, and software components are taught, along with practices to best utilize test doubles. 
@@ -41,14 +45,10 @@ Creating a Work Breakdown Structure for Agile DevelopmentCreating an effective r
 ## Product Delivery
 
 **Intel® Rapid Storage Technology (RST)**<br>
+Intel® Rapid Storage Technology (RST) is a digital storage solution consisting of hardware, firmware, and software that provides protection, performance, and expandability for desktop, mobile, and server platforms. Intel® RST offers features that optimize performance and data reliability for disk-intensive retrieval by combining multiple hard disk drives (HDDs) and/or solid-state drives (SSDs) in multiple RAID configurations.
+
 **Intel® Smart Response Technology (SRT)**<br>
+Intel® Smart Response Technology boosts performance by recognizing and automatically storing frequently used applications and data into a high performance SSD while providing full access to the large storage capacity of an HDD. This enables a lower-cost, small-capacity SSD to be used in conjunction with a high-capacity HDD, or integrated within a solid-state hybrid drive (SSHD).
 
-**_Engineering Manager_**, v11.0 – v13.1<br>
-Managed software configuration and release management activities to ensure the integrity of all software builds, product baselines, change management processes, version control, and IP plans for these multiple product lines.  Oversaw DevOps activities to fully automate the delivery pipeline for these lines.
-
-Effectively managed a second team for all development of new and legacy software to support development operations in the CSG Software Center of Excellence.
-
-As Security Champion, I led all efforts to ensure security requirements were being met throughout the entire development lifecycle for Intel® RST and Intel® SRT.
-<br><br>
-**_Technical Program Manager_**, v10.5 – v10.8<br>
-Supported the delivery of product enhancements for both client and enterprise server solutions by leading a large Agile transformation for the entire CSG Software Center of Excellence.
+**Nationwide® Rate to Bind**<br>
+Nationwide® Rate to Bind is a web-based application used by contract underwriting & general agents to rate, quote, and bind excess & umbrella coverage written over primary risks that meet program & non-program guidelines.
