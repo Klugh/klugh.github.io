@@ -10,7 +10,7 @@ My passion lies in improving team performance, software quality, and productivit
 
 ### <br>Technical Training & Development Facilitation
 
-The following is a list of courses I teach on a regular basis to uplift team capabilities:
+Following is a list of courses I teach on a regular basis to uplift team capabilities:
 
 **Principles & Practices of Software Component Design**<br>
 
