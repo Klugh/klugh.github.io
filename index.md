@@ -51,4 +51,4 @@ Intel® Rapid Storage Technology (RST) is a digital storage solution consisting 
 Intel® Smart Response Technology boosts performance by recognizing and automatically storing frequently used applications and data into a high performance SSD while providing full access to the large storage capacity of an HDD. This enables a lower-cost, small-capacity SSD to be used in conjunction with a high-capacity HDD, or integrated within a solid-state hybrid drive (SSHD).
 
 **Nationwide® Rate to Bind**<br>
-Nationwide® Rate to Bind is a web-based application used by contract underwriting & general agents to rate, quote, and bind excess & umbrella coverage written over primary risks that meet program & non-program guidelines.
+Nationwide® Rate to Bind is a web-based application used by contract underwriting and general agents to rate, quote, and bind excess and umbrella coverage written over primary risks that meet program and non-program guidelines.
