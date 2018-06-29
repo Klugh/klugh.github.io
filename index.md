@@ -1,4 +1,4 @@
-## Summary
+## Leadership Summary
 
 Experienced software development and DevOps manager with 20+ years of experience delivering advanced software systems for small and large companies.  Strong leadership in the development of modern software solutions through clean, predictable, and testable code utilizing object-oriented design principles.  Full-stack Microsoft developer proficient in developing responsive user interfaces, web applications, web services, and relational database solutions.  Achieving rapid delivery with Azure Cloud Services through continuous integration with Git, automated builds, tests, deployments and scaling using Docker containers within fully managed Kubernetes clusters.
 
