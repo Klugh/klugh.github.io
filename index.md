@@ -1,4 +1,4 @@
-## Leadership Summary
+### Leadership Summary
 
 Experienced software development and DevOps manager with 20+ years of experience delivering advanced software systems for small and large companies.  Strong leadership in the development of modern software solutions through clean, predictable, and testable code utilizing object-oriented design principles.  Full-stack Microsoft developer proficient in developing responsive user interfaces, web applications, web services, and relational database solutions.  Achieving rapid delivery with Azure Cloud Services through continuous integration with Git, automated builds, tests, deployments and scaling using Docker containers within fully managed Kubernetes clusters.
 
@@ -8,7 +8,7 @@ Consistently receiving high marks for conducting technical training in object-or
 
 My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.  I am a big proponent of optimizing software delivery by running applications and services on self-managed containers, which is clearly the biggest advancement in DevOps to date.
 
-## Technical Training & Development Facilitation
+### Technical Training & Development Facilitation
 
 The following is a list of courses I teach on a regular basis to uplift team capabilities:
 
@@ -42,7 +42,7 @@ Agile principles are intended to help deliver greater product quality while incr
 This course examines both time-based and relative estimation methods, along with the benefits and disadvantages of each. 
 Creating a Work Breakdown Structure for Agile DevelopmentCreating an effective representation of the development work is critical to maximizing productivity and increasing predictability.  This course provides several methods for determining the most effective Work Breakdown Structure (WBS) and demonstrates how to identify, decompose, and represent the work needed to deliver a high-quality product that fulfills customers’ needs.
 
-## Product Delivery
+### Product Delivery
 
 **Intel® Rapid Storage Technology (RST)**<br>
 Intel® Rapid Storage Technology (RST) is a digital storage solution consisting of hardware, firmware, and software that provides protection, performance, and expandability for desktop, mobile, and server platforms. Intel® RST offers features that optimize performance and data reliability for disk-intensive retrieval by combining multiple hard disk drives (HDDs) and/or solid-state drives (SSDs) in multiple RAID configurations.
