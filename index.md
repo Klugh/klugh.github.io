@@ -54,4 +54,7 @@ Intel® Smart Response Technology boosts performance by recognizing and automati
 Ipro eCapture™ is an industry-leading, fully-automated, electronic evidence processing solution designed to perform electronic discovery, processing, and production tasks quickly and accurately.  eCapture streamlines the discovery workflow through discovery of hundreds of different electronic file types, while multi-threaded automated workers support a fully-distributed production environment.
 
 **Nationwide® Rate to Bind**<br>
-Nationwide® Rate to Bind is a web-based application used by contract underwriting and general agents to rate, quote, and bind excess and umbrella coverage written over primary risks that meet program and non-program guidelines.
+Nationwide® Rate to Bind is a web application used by contract underwriting and general agents to rate, quote, and bind excess and umbrella coverage written over primary risks that meet program and non-program guidelines.
+
+**Nationwide® acceleRATE**<br>
+Nationwide® acceleRATE is a rating, issuance, and policy administration system used by general agents and program managers to sell insurance policies for property & casualty, garage, and personal lines in the Excess and Surplus market.
