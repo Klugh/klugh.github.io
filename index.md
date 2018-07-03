@@ -45,16 +45,19 @@ Creating a Work Breakdown Structure for Agile DevelopmentCreating an effective r
 ### <br>Product Delivery
 
 **Intel® Rapid Storage Technology (RST)**<br>
-Intel® Rapid Storage Technology (RST) is a digital storage solution consisting of hardware, firmware, and software that provides protection, performance, and expandability for desktop, mobile, and server platforms. Intel® RST offers features that optimize performance and data reliability for disk-intensive retrieval by combining multiple hard disk drives (HDDs) and/or solid-state drives (SSDs) in multiple RAID configurations.
+Rapid Storage Technology (RST) is a digital storage solution consisting of hardware, firmware, and software that provides protection, performance, and expandability for desktop, mobile, and server platforms. Intel® RST offers features that optimize performance and data reliability for disk-intensive retrieval by combining multiple hard disk drives (HDDs) and/or solid-state drives (SSDs) in multiple RAID configurations.
 
 **Intel® Smart Response Technology (SRT)**<br>
-Intel® Smart Response Technology boosts performance by recognizing and automatically storing frequently used applications and data into a high performance SSD while providing full access to the large storage capacity of an HDD. This enables a lower-cost, small-capacity SSD to be used in conjunction with a high-capacity HDD, or integrated within a solid-state hybrid drive (SSHD).
+Smart Response Technology (SRT) boosts performance by recognizing and automatically storing frequently used applications and data into a high performance SSD while providing full access to the large storage capacity of an HDD. This enables a lower-cost, small-capacity SSD to be used in conjunction with a high-capacity HDD, or integrated within a solid-state hybrid drive (SSHD).
 
 **Ipro eCapture™**<br>
-Ipro eCapture™ is an industry-leading, fully-automated, electronic evidence processing solution designed to perform electronic discovery, processing, and production tasks quickly and accurately.  eCapture streamlines the discovery workflow through discovery of hundreds of different electronic file types, while multi-threaded automated workers support a fully-distributed production environment.
+eCapture™ is an industry-leading, fully-automated, electronic evidence processing solution designed to perform electronic discovery, processing, and production tasks quickly and accurately.  eCapture streamlines the discovery workflow through discovery of hundreds of different electronic file types, while multi-threaded automated workers support a fully-distributed production environment.
 
 **Nationwide® Rate to Bind**<br>
-Nationwide® Rate to Bind is a web application used by contract underwriting and general agents to rate, quote, and bind excess and umbrella coverage written over primary risks that meet program and non-program guidelines.
+Rate to Bind is a web application used by contract underwriting and general agents to rate, quote, and bind excess and umbrella coverage written over primary risks that meet program and non-program guidelines.
 
 **Nationwide® acceleRATE**<br>
-Nationwide® acceleRATE is a rating, issuance, and policy administration system used by general agents and program managers to sell insurance policies for property & casualty, garage, and personal lines in the Excess and Surplus market.
+acceleRATE is a rating, issuance, and policy administration system used by general agents and program managers to sell insurance policies for property & casualty, garage, and personal lines in the Excess and Surplus market.
+
+**Nationwide® Data Connect Program Rates Management**<br>
+Data Connect Program Rates Management is a web application used to manage programs, territories, areas, class groups, and rates used by rating and issuance systems.
