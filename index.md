@@ -53,11 +53,14 @@ Smart Response Technology (SRT) boosts performance by recognizing and automatica
 **Ipro eCapture™**<br>
 eCapture™ is an industry-leading, fully-automated, electronic evidence processing solution designed to perform electronic discovery, processing, and production tasks quickly and accurately.  eCapture streamlines the discovery workflow through discovery of hundreds of different electronic file types, while multi-threaded automated workers support a fully-distributed production environment.
 
-**Nationwide® Rate to Bind**<br>
-Rate to Bind is a web application used by contract underwriting and general agents to rate, quote, and bind excess and umbrella coverage written over primary risks that meet program and non-program guidelines.
+**Ipro Eclipse®**<br>
+Eclipse® is a web-based eDiscovery solution that provides computer-assisted review and advanced analytics to identify and thread email conversations, find and compare near duplicate documents, and cluster similar documents to streamline workflows, decrease review time, and increase accuracy.  This solution is built with innovative document categorization logic that prioritizes documents based on relevance through small sample sets, then sorts the population into categories, leaving irrelevant documents uncategorized…  achieving better reviews faster.
 
 **Nationwide® acceleRATE**<br>
 acceleRATE is a rating, issuance, and policy administration system used by general agents and program managers to sell insurance policies for property & casualty, garage, and personal lines in the Excess and Surplus market.
+
+**Nationwide® Rate to Bind**<br>
+Rate to Bind is a web application used by contract underwriting and general agents to rate, quote, and bind excess and umbrella coverage written over primary risks that meet program and non-program guidelines.
 
 **Nationwide® Data Connect Program Rates Management**<br>
 Data Connect Program Rates Management is a web application used to manage programs, territories, areas, class groups, and rates used by rating and issuance systems.
