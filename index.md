@@ -13,6 +13,7 @@ My passion lies in improving team performance, software quality, and productivit
 Following is a list of courses I teach on a regular basis to uplift team capabilities:
 
 **Principles & Practices of Software Component Design**<br>
+Modern, mature software solutions should fully support continuous delivery through an automated delivery pipeline using containerization and cloud infrastructure.  To realize this goal, software needs be designed and built around loosely coupled, independent components.  This class teaches how to deliver high quality and highly adaptive software through component design principles, supported by SOLID principles of object-oriented design.
 
 **Principles & Practices of Test-Driven Development**<br>
 This class teaches the principles and practices of Test-Driven Development (TDD) and demonstrates how proper software design evolves through application of the eXtreme Programming principle of Test First.  Unit testing principles are also covered, along with a thorough discussion on the benefits of TDD.  An application is developed (from start to finish) during this class to explain step-by-step and demonstrate first-hand how a high quality, testable design evolves by applying the three laws of Test-Driven Development. 
