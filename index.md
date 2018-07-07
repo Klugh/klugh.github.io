@@ -13,6 +13,7 @@ My passion lies in improving team performance, software quality, and productivit
 Following is a list of courses I teach on a regular basis to uplift team capabilities:
 
 **SOLID Principles of Object-Oriented Design**<br>
+Quality can never be added to software; you must plan, design, and build for it.  The SOLID principles provide a set of standards by which quality software can be developed, enhancing characteristics such as functionality, extensibility, reliability, portability, and testability among others.  This class teaches the five SOLID principles and associated practices that will help realize many optimal software qualities.
 
 **Principles & Practices of Software Component Design**<br>
 Modern, mature software solutions should fully support continuous delivery through an automated delivery pipeline using containerization and cloud infrastructure.  To realize this goal, software needs be designed and built around loosely coupled, independent components.  This class teaches how to deliver high quality and highly adaptive software through component design principles, supported by SOLID principles of object-oriented design.
