@@ -21,8 +21,6 @@ Modern, mature software solutions should fully support continuous delivery throu
 **Principles & Practices of Test-Driven Development**<br>
 This course teaches the principles and practices of Test-Driven Development (TDD) and demonstrates how proper software design evolves through application of the eXtreme Programming principle of Test First.  Unit testing principles are also covered, along with a thorough discussion on the benefits of TDD.  An application is developed (from start to finish) during this course to explain step-by-step and demonstrate first-hand how a high quality, testable design evolves by applying the three laws of Test-Driven Development. 
 
-**The Technical Discipline of Being Agile**<br>
-
 **Enhancing Software Testability**<br>
 Software testability is impacted by practices throughout the development lifecycle.  This course teaches engineering principles which greatly increase software testability, thereby raising code quality, test coverage, test effectiveness, and productivity, while reducing testing time, defects, and time to market.  Methods for enhancing testability of requirements, design, and software components are taught, along with practices to best utilize test doubles. 
 
@@ -31,6 +29,9 @@ Test doubles are used as substitutes for production resources during testing.  A
 
 **Managing Technical Debt**<br>
 Software is a huge asset for most companies, organizations, and governments.  The quality of that software contributes heavily to its value.  Effectively managing technical debt enables you to optimize the value of software and maximize time to market.  If you have to battle technical debt in an attempt to beat your competition to market with a new feature, you may lose any advantage by having to deal with complex or unreliable code that is not easily extendable.  To maintain business, market, or technological advantages, you must effectively manage technical debt incurred within all artifacts that define, implement, and validate your software.  This course examines what technical debt is, how it can benefit your organization and give you an advantage over your competition, how and when it should be (intentionally) incurred, and how and when it should be paid off.
+
+**The Technical Discipline of Being Agile™**<br>
+Agile was created by 17 technical leaders in the software industry who crafted a lightweight development process that was intended to heal the divide between business and developers.  They also established technical norms that would mitigate common issues such as excessive cruft, tightly coupled architectures, rigid code, immature test suites, technical debt, along with other anti-patterns that slowed delivery of high quality software.  This course examines the characteristics of good and bad software and explores technical practices that resolve the issues and enable teams to deliver great software fast.
 
 **The Root of All Agile**<br>
 This course focuses on the culture of Agile at Nationwide Insurance through presentation of the Agile experience, practice awareness, tea leaves, Gemba walks, and hands-on Agile exercises.  This is a required course for anyone starting new on a Nationwide Agile team or one that is looking to build a culture of excellence.
