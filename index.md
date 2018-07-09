@@ -67,5 +67,5 @@ acceleRATE is a rating, issuance, and policy administration system used by gener
 **Nationwide® Rate to Bind**<br>
 Rate to Bind is a web application used by contract underwriting and general agents to rate, quote, and bind excess and umbrella coverage written over primary risks that meet program and non-program guidelines.
 
-**Nationwide® Data Connect Program Rates Management**<br>
-Data Connect Program Rates Management is a web application used to manage programs, territories, areas, class groups, and rates used by rating and issuance systems.
+[//]: # **Nationwide® Data Connect Program Rates Management**<br>
+[//]: # Data Connect Program Rates Management is a web application used to manage programs, territories, areas, class groups, and rates used by rating and issuance systems.
