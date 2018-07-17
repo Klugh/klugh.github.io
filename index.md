@@ -45,7 +45,6 @@ Agile principles are intended to help deliver greater product quality while incr
 
 **Estimation Methods for Agile Development**<br>
 This course examines both time-based and relative estimation methods, along with the benefits and disadvantages of each. 
-Creating a Work Breakdown Structure for Agile DevelopmentCreating an effective representation of the development work is critical to maximizing productivity and increasing predictability.  This course provides several methods for determining the most effective Work Breakdown Structure (WBS) and demonstrates how to identify, decompose, and represent the work needed to deliver a high-quality product that fulfills customers’ needs.
 
 ### <br>Product Delivery
 
