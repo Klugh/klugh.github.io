@@ -8,6 +8,23 @@ Consistently receiving high marks for conducting technical training in object-or
 
 My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.  I am a big proponent of optimizing software delivery by running applications and services on self-managed containers, which is clearly the biggest advancement in DevOps to date.
 
+### <br>Professional Roles
+
+**Software Leader**  (10+ years)<br>
+Provided individual leadership to hundreds of software professionals and team leadership to eight cross-functional software development teams.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.  Consistently received high marks for conducting technical training (listed below) at small companies and large corporations.
+
+**Software Manager**  (3+ years)<br>
+Managed 60+ software professionals as a 1st and 2nd level manager, along with accomplishing short and long-term strategic planning, risk management, staffing, career development, performance evaluations, and delivery on commitments with an annual budget of $1.2M.
+
+**Software Team Leader**  (7+ years)<br>
+Led eight software development teams in the delivery of both systems of record and systems of engagement.  Directed teams in the development of technical solutions, the adoption of software processes, and assured commitment to schedule and scope.
+
+**Software Engineer**  (3+ years)<br>
+Designed, built, and delivered high quality software using engineering principles to ensure compliance to predefined quality models, including characteristics of extensibility, resiliency, scalability, and security.
+
+**Software Developer**  (10+ years)<br>
+Designed, built, and delivered high quality software using engineering principles to ensure compliance to predefined quality models, including characteristics of extensibility, resiliency, scalability, and security.
+
 ### <br>Technical Training & Development Facilitation
 
 Following is a list of courses I teach on a regular basis to uplift team capabilities:
