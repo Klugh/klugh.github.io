@@ -11,19 +11,16 @@ My passion lies in improving team performance, software quality, and productivit
 ### <br>Professional Roles
 
 **Leader**  (10+ years)<br>
-Provided individual leadership to hundreds of software professionals and team leadership to eight cross-functional software development teams.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.  Consistently received high marks for conducting technical training (listed below) at small companies and large corporations.
+Provided individual leadership to hundreds of software professionals and team leadership to over a dozen software/firmware development teams.  Led the delivery of system, service, and application software through the development of technical solutions, the adoption of software processes, and commitment to quality, schedule, and scope.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.  Consistently received high marks for conducting technical training (listed below) at small companies and large corporations.
 
 **Manager**  (3+ years)<br>
 Managed 60+ software professionals as a 1st and 2nd level manager, while achieving short and long-term strategic planning, risk management, staffing, career development, performance evaluations, and delivery on commitments with an annual budget of $1.2M.
-
-**Team Leader**  (7+ years)<br>
-Led eight software development teams in the delivery of both systems of record and systems of engagement.  Directed teams in the development of technical solutions, the adoption of software processes, and assured commitment to schedule and scope.
 
 **Engineer**  (3+ years)<br>
 Designed, built, and delivered high quality software using engineering principles to ensure compliance to predefined quality models, including characteristics of extensibility, resiliency, scalability, and security.
 
 **Developer**  (10+ years)<br>
-Designed, built, and delivered high quality software using engineering principles to ensure compliance to predefined quality models, including characteristics of extensibility, resiliency, scalability, and security.
+Implemented and tested application and service software to fulfill enterprise, business, and compliance requirements.
 
 ### <br>Technical Training & Development Facilitation
 
