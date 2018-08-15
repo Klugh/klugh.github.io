@@ -2,16 +2,14 @@
 
 Experienced software development and DevOps manager with 20+ years of experience delivering advanced software systems for small and large companies.  Strong leadership in the development of modern software solutions through clean, predictable, and testable code utilizing object-oriented design principles.  Full-stack Microsoft developer proficient in developing responsive user interfaces, web applications, web services, and relational database solutions.  Achieving rapid delivery with Azure Cloud Services through continuous integration with Git, automated builds, tests, deployments and scaling using Docker containers within fully managed Kubernetes clusters.
 
-Experience includes managing 60+ software professionals over 3 years as a 1st and 2nd level manager and providing individual and team leadership to hundreds more.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.
-
-Consistently receiving high marks for conducting technical training in object-oriented and component design principles, along with Agile, Lean, and XP practices, including test-driven development and continuous delivery.  Continuing to extend my track record of consistently improving individual and team delivery, along with improvements in quality, predictability, and productivity.  I pride myself in succeeding where others have failed.  My work has impacted some of the world's top brands including Intel, IBM, Bayer, Fiserv, Wells Fargo, Bank of New York, and GoDaddy.com to name a few.
+Continuing to extend my track record of consistently improving individual and team delivery, along with improvements in quality, predictability, and productivity.  I pride myself in succeeding where others have failed.  My work has impacted some of the world's top brands including Intel, IBM, Bayer, Fiserv, Wells Fargo, Bank of New York, and GoDaddy.com to name a few.
 
 My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.  I am a big proponent of optimizing software delivery by running applications and services on self-managed containers, which is clearly the biggest advancement in DevOps to date.
 
 ### <br>Professional Roles
 
 **Leader**  (10+ years)<br>
-Provided individual leadership to hundreds of software professionals and team leadership to over a dozen software/firmware development teams.  Led the delivery of system, service, and application software through the development of technical solutions, the adoption of software processes, and commitment to quality, schedule, and scope.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.  Consistently received high marks for conducting technical training (listed below) at small companies and large corporations.
+Provided individual leadership to hundreds of software professionals and team leadership to over a dozen software/firmware development teams.  Led the delivery of system, service, and application software through the development of technical solutions, the adoption of software processes, and commitment to quality, schedule, and scope.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.
 
 **Manager**  (3+ years)<br>
 Managed 60+ software professionals as a 1st and 2nd level manager, while achieving short and long-term strategic planning, risk management, staffing, career development, performance evaluations, and delivery on commitments with an annual budget of $1.2M.
@@ -21,6 +19,9 @@ Designed, built, and delivered high quality software using engineering principle
 
 **Developer**  (10+ years)<br>
 Implemented and tested application and service software to fulfill enterprise, business, and compliance requirements.
+
+**Trainer**  (8+ years)<br>
+Consistently received high marks for upliftiing individual and team capabilities through technical training (listed below) in object-oriented and component design principles, along with DevOps, Agile, Lean, and XP practices, including test-driven development and continuous delivery. 
 
 ### <br>Technical Training & Development Facilitation
 
