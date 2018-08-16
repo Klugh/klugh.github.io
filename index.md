@@ -18,7 +18,7 @@ Managed 60+ software professionals as a 1st and 2nd level manager, while achievi
 Designed, built, and delivered high quality software using engineering principles to ensure compliance to predefined quality models, including characteristics of extensibility, resiliency, scalability, and security.
 
 **Developer**  (10+ years)<br>
-Implemented and tested application and service software to fulfill enterprise, business, and compliance requirements.
+Implemented and tested application, service, and database software to fulfill enterprise, business, and compliance requirements.
 
 **Trainer**  (8+ years)<br>
 Consistently received high marks for upliftiing individual and team capabilities through technical training (listed below) in object-oriented and component design principles, along with DevOps, Agile, Lean, and XP practices, including test-driven development and continuous delivery. 
