@@ -8,6 +8,8 @@ My passion lies in improving team performance, software quality, and productivit
 
 ### <br>Professional Roles
 
+Following is a list of professional roles I have successfully fulfilled throughout my career.  Please note that the timeframe for some of these roles overlap (i.e. I concurrently fulfilled the roles of *Leader* and *Trainer*).
+
 **Leader**  (10+ years)<br>
 Provided individual leadership to hundreds of software professionals and team leadership to over a dozen software/firmware development teams.  Led the delivery of system, service, and application software through the development of technical solutions, the adoption of software processes, and commitment to quality, schedule, and scope.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.
 
@@ -21,7 +23,7 @@ Designed, built, and delivered high quality software using engineering principle
 Implemented and tested application, service, and database software to fulfill enterprise, business, and compliance requirements.
 
 **Trainer**  (8+ years)<br>
-Consistently received high marks for upliftiing individual and team capabilities through technical training (listed below) in object-oriented and component design principles, along with DevOps, Agile, Lean, and XP practices, including test-driven development and continuous delivery. 
+Consistently receiving high marks for upliftiing individual and team capabilities through technical training (listed below) in object-oriented and component design principles, along with DevOps, Agile, Lean, and XP practices, including test-driven development and continuous delivery. 
 
 ### <br>Technical Training & Development Facilitation
 
