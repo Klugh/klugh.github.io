@@ -8,7 +8,7 @@ My passion lies in improving team performance, software quality, and productivit
 
 ### <br>Professional Roles
 
-Following is a list of professional roles I have successfully fulfilled throughout my career.  Please note that the timeframe for some of these roles overlap (i.e. I concurrently fulfilled the roles of *Leader* and *Trainer*).
+Following is a list of professional roles I have successfully fulfilled throughout my career.  The timeframe for some of these roles overlap (i.e. I concurrently fulfilled the roles of *Leader* and *Trainer*).
 
 **Leader**  (10+ years)<br>
 Provided individual leadership to hundreds of software professionals and team leadership to over a dozen software/firmware development teams.  Led the delivery of system, service, and application software through the development of technical solutions, the adoption of software processes, and commitment to quality, schedule, and scope.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.
