@@ -4,7 +4,7 @@ Experienced software development and DevOps manager with 20+ years of experience
 
 Continuing to extend my track record of consistently improving individual and team delivery, along with improvements in quality, predictability, and productivity.  I pride myself in succeeding where others have failed.  My work has impacted some of the world's top brands including Intel, IBM, Bayer, Fiserv, Wells Fargo, Bank of New York, and GoDaddy.com to name a few.
 
-My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.  I am a big proponent of optimizing software delivery by running applications and services on self-managed containers, which has been one of the biggest advancements in DevOps to date.
+My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.  I am a proponent of optimizing software delivery by running applications and services on self-managed containers, which has been one of the biggest advancements in DevOps to date.
 
 ### <br>Professional Roles
 
@@ -27,7 +27,7 @@ Consistently receiving high marks for upliftiing individual and team capabilitie
 
 ### <br>Technical Training & Development Facilitation
 
-Following is a list of courses I teach on a regular basis to uplift team capabilities:
+Following is a list of courses I teach on a regular basis to uplift individual and team capabilities:
 
 **SOLID Principles of Object-Oriented Design**<br>
 Quality can never be added to software; you must plan, design, and build for it.  The SOLID principles provide a set of standards by which quality software can be developed, enhancing characteristics such as functionality, extensibility, reliability, portability, and testability among others.  This course teaches the five SOLID principles of class design and associated practices that will help realize many optimal software qualities.
@@ -45,10 +45,10 @@ Product quality, code quality, and time to market can all be improved and optimi
 Software testability is impacted by practices throughout the development lifecycle.  This course teaches engineering principles which greatly increase software testability, thereby raising code quality, test coverage, test effectiveness, and productivity, while reducing testing time, defects, and time to market.  Methods for enhancing testability of requirements, design, and software components are taught, along with practices to best utilize test doubles. 
 
 **Understanding Test Doubles**<br>
-Test doubles are used as substitutes for production resources during testing.  And effective use of test doubles is essential to maximizing software testability.  This course explains what test doubles are, five different types of test doubles, how they are used, and the benefits of each.  A comparison is also made between mocking frameworks and hand-rolled mocks.
+Test doubles are used as substitutes for production resources during testing.  The ability to effectively use test doubles is essential to maximizing software testability.  This course explains what test doubles are, five different types of test doubles, how they are used, and the benefits of each.  A comparison is also made between mocking frameworks and hand-rolled mocks.
 
 **Managing Technical Debt**<br>
-Software is a huge asset for most companies, organizations, and governments.  The quality of that software contributes heavily to its value.  Effectively managing technical debt enables you to optimize the value of software and maximize time to market.  If you have to battle technical debt in an attempt to beat your competition to market with a new feature, you may lose any advantage by having to deal with complex or unreliable code that is not easily extendable.  To maintain business, market, or technological advantages, you must effectively manage technical debt incurred within all artifacts that define, implement, and validate your software.  This course examines what technical debt is, how it can benefit your organization and give you an advantage over your competition, how and when it should be (intentionally) incurred, and how and when it should be paid off.
+Software is a big investment for most companies, organizations, and governments.  The quality of that software contributes heavily to its value.  Effectively managing technical debt enables you to optimize the value of software and maximize time to market.  If you have to battle technical debt in an attempt to beat your competition to market with a new feature, you may lose any advantage by having to deal with complex or unreliable code that is not easily extendable.  To maintain business, market, or technological advantages, you must effectively manage technical debt incurred within all artifacts that define, implement, and validate your software.  This course examines what technical debt is, how it can benefit your organization and give you an advantage over your competition, how and when it should be (intentionally) incurred, and how and when it should be paid off.
 
 **The Technical Discipline of Being Agile™**<br>
 Agile was created by 17 technical leaders in the software industry who crafted a lightweight development process that was intended to heal the divide between business and developers.  They also established technical norms that would mitigate common issues such as excessive cruft, tightly coupled architectures, rigid code, immature test suites, technical debt, along with other anti-patterns that slowed delivery of high quality software.  This course examines the characteristics of good and bad software and explores technical practices that resolve the issues and enable teams to deliver great software fast.
