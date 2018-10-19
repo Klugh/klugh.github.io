@@ -23,7 +23,7 @@ Designed, built, and delivered high quality software using engineering principle
 Implemented and tested application, service, and database software to fulfill enterprise, business, and regulatory requirements.
 
 **Trainer**  (8+ years)<br>
-Developing and leading training programs (courses listed below) to uplift individual and team capabilities in various technical disciplines, including software engineering, eXtreme Programming (XP), Agile, and DevOps. 
+Developing and leading training programs to uplift individual and team capabilities in various technical disciplines, including software engineering, eXtreme Programming (XP), Agile, and DevOps.  Courses listed below...
 
 ### <br>Technical Training & Development Facilitation
 
