@@ -27,7 +27,7 @@ Developing and leading training programs to uplift individual and team capabilit
 
 ### <br>Technical Training & Development Facilitation
 
-Following is a list of courses I teach on a regular basis to uplift individual and team capabilities:
+Following is a list of training courses I have developed and teach on a regular basis to uplift individual and team capabilities:
 
 **SOLID Principles of Object-Oriented Design**<br>
 Quality can never be added to software; you must plan, design, and build for it.  The SOLID principles provide a set of standards by which quality software can be developed, enhancing characteristics such as functionality, extensibility, reliability, portability, and testability among others.  This course teaches the five SOLID principles of class design and associated practices that will help realize many optimal software qualities.
@@ -53,8 +53,8 @@ Software is a big investment for most companies, organizations, and governments.
 **The Technical Discipline of Being Agile™**<br>
 Agile was created by 17 technical leaders in the software industry who crafted a lightweight development process that was intended to heal the divide between business and developers.  They also established technical norms that would mitigate common issues such as excessive cruft, tightly coupled architectures, rigid code, immature test suites, technical debt, along with other anti-patterns that slowed delivery of high quality software.  This course examines the characteristics of good and bad software and explores technical practices that resolve the issues and enable teams to deliver great software fast.
 
-**The Root of All Agile**<br>
-This course focuses on the culture of Agile at Nationwide Insurance through presentation of the Agile experience, practice awareness, tea leaves, Gemba walks, and hands-on Agile exercises.  This is a required course for anyone starting new on a Nationwide Agile team or one that is looking to build a culture of excellence.
+[//]: # **The Root of All Agile**<br>
+[//]: # This course focuses on the culture of Agile at Nationwide Insurance through presentation of the Agile experience, practice awareness, tea leaves, Gemba walks, and hands-on Agile exercises.  This is a required course for anyone starting new on a Nationwide Agile team or one that is looking to build a culture of excellence.
 
 **Understanding the Value of Agile Principles**<br>
 Agile principles are intended to help deliver greater product quality while increasing productivity. To achieve these benefits, project stakeholders must understand the value that come from putting each principle into practice. This course will reveal the value to be expected by applying each of the twelve Agile principles.
