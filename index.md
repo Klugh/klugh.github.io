@@ -27,7 +27,7 @@ Developing and leading training programs to uplift individual and team capabilit
 
 ### <br>Technical Training & Development Facilitation
 
-Following is a list of courses I teach on a regular basis to uplift individual and team capabilities:
+Following is a list of training courses I have developed and teach on a regular basis to uplift individual and team capabilities:
 
 **SOLID Principles of Object-Oriented Design**<br>
 Quality can never be added to software; you must plan, design, and build for it.  The SOLID principles provide a set of standards by which quality software can be developed, enhancing characteristics such as functionality, extensibility, reliability, portability, and testability among others.  This course teaches the five SOLID principles of class design and associated practices that will help realize many optimal software qualities.
@@ -36,10 +36,10 @@ Quality can never be added to software; you must plan, design, and build for it.
 Modern, mature software solutions should fully support continuous delivery through an automated delivery pipeline using containerization and cloud infrastructure.  To realize this goal, software needs be designed and built around loosely coupled, independent components.  This course teaches how to deliver high quality and highly adaptive software through component design principles, supported by SOLID principles of object-oriented design.
 
 **Principles & Practices of Test-Driven Development**<br>
-This course teaches the principles and practices of Test-Driven Development (TDD) and demonstrates how proper software design evolves through application of the eXtreme Programming principle of Test First.  Unit testing principles are also covered, along with a thorough discussion on the benefits of TDD.  An application is developed (from start to finish) during this course to explain step-by-step and demonstrate first-hand how a high quality, testable design evolves by applying the three laws of Test-Driven Development. 
+This course teaches the principles and practices of Test-Driven Development (TDD) and demonstrates how proper software design evolves through application of the eXtreme Programming principle of *Test First*.  Unit testing principles are also covered, along with a thorough discussion on the benefits of TDD.  An application is developed (from start to finish) during this course to explain step-by-step and demonstrate first-hand how a high quality, testable design evolves by applying the three laws of Test-Driven Development. 
 
 **Inside Unit Testing:  Principles & Practices**<br>
-Product quality, code quality, and time to market can all be improved and optimized through effective use of unit tests.  Testing in small, isolated, and deterministic units fosters code characteristics such as testability, adaptability, and reliability.  This testing strategy shifts failures towards the left of our SDLC and greatly reduces development time, costs, and risks.  This course teaches the principles and practices of unit testing, along with core techniques for writing testable software and avoiding test smells.  Test doubles are also taught as effective methods for isolating dependencies, further enhancing testability.  An introduction to test-driven development (TDD) is used to integrate unit testing practices with those of TDD.
+Product quality, code quality, and time to market can all be improved and optimized through effective use of unit tests.  Testing in small, isolated, and deterministic units fosters code characteristics such as testability, adaptability, and reliability.  This testing strategy shifts failures towards the left of our SDLC and greatly reduces development time, costs, and risks.  This course teaches the principles and practices of unit testing, along with core techniques for writing testable software and avoiding test smells.  Test doubles are also taught as effective methods for isolating the system under test and overriding behavior, further enhancing testability.  An introduction to test-driven development (TDD) is used to integrate unit testing practices with those of TDD.
 
 **Enhancing Software Testability**<br>
 Software testability is impacted by practices throughout the development lifecycle.  This course teaches engineering principles which greatly increase software testability, thereby raising code quality, test coverage, test effectiveness, and productivity, while reducing testing time, defects, and time to market.  Methods for enhancing testability of requirements, design, and software components are taught, along with practices to best utilize test doubles. 
@@ -53,8 +53,8 @@ Software is a big investment for most companies, organizations, and governments.
 **The Technical Discipline of Being Agile™**<br>
 Agile was created by 17 technical leaders in the software industry who crafted a lightweight development process that was intended to heal the divide between business and developers.  They also established technical norms that would mitigate common issues such as excessive cruft, tightly coupled architectures, rigid code, immature test suites, technical debt, along with other anti-patterns that slowed delivery of high quality software.  This course examines the characteristics of good and bad software and explores technical practices that resolve the issues and enable teams to deliver great software fast.
 
-**The Root of All Agile**<br>
-This course focuses on the culture of Agile at Nationwide Insurance through presentation of the Agile experience, practice awareness, tea leaves, Gemba walks, and hands-on Agile exercises.  This is a required course for anyone starting new on a Nationwide Agile team or one that is looking to build a culture of excellence.
+[//]: # **The Root of All Agile**<br>
+[//]: # This course focuses on the culture of Agile at Nationwide Insurance through presentation of the Agile experience, practice awareness, tea leaves, Gemba walks, and hands-on Agile exercises.  This is a required course for anyone starting new on a Nationwide Agile team or one that is looking to build a culture of excellence.
 
 **Understanding the Value of Agile Principles**<br>
 Agile principles are intended to help deliver greater product quality while increasing productivity. To achieve these benefits, project stakeholders must understand the value that come from putting each principle into practice. This course will reveal the value to be expected by applying each of the twelve Agile principles.
