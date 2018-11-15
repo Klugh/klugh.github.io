@@ -14,7 +14,7 @@ Following is a list of professional roles I have successfully fulfilled througho
 Provided individual leadership to hundreds of software professionals and team leadership to over a dozen software/firmware development teams.  Led the delivery of system, service, and application software through the development of technical solutions, the adoption of software processes, and commitment to quality, schedule, and scope.  Leadership experience includes coaching for the Intel® Software Academy and sharing expertise through conference presentations, coaching, training, and blogs as a member of the Intel® Agile Coaching Network.
 
 **Manager**  (3+ years)<br>
-Managed 60+ software professionals as a 1st and 2nd level manager, while achieving short and long-term strategic planning, risk management, staffing, career development, performance evaluations, and delivery on commitments with an annual budget of $1.2M.
+Managed 60+ software professionals as a 1st and 2nd level manager, while achieving short and long-term strategic planning, risk management, staffing, training, career development, performance evaluations, and delivery on commitments with annual budgets of $1.2M and $5.6M.
 
 **Engineer**  (3+ years)<br>
 Designed, built, and delivered high quality software using engineering principles to ensure compliance to predefined quality models, including characteristics of extensibility, resiliency, scalability, and security.
