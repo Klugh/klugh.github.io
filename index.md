@@ -22,6 +22,9 @@ Designed, built, and delivered high quality software using engineering principle
 **Developer**  (10+ years)<br>
 Implemented and tested application, service, and database software to fulfill enterprise, business, and regulatory requirements.
 
+**Scrum Master**  (10+ years)<br>
+Coaching software development teams in living the values and principles of Agile to satisfy the customers’ needs while building a product that will easily support changes so that it can continue to meet those needs throughout its lifetime.  This is accomplished through continuous development of an Agile and DevOps mindset, while focusing the team on technical excellence.
+
 **Trainer**  (8+ years)<br>
 Developing and leading training programs to uplift individual and team capabilities in various technical disciplines, including software engineering, eXtreme Programming (XP), Agile, and DevOps.  Courses listed below...
 
