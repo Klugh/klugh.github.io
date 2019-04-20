@@ -6,6 +6,53 @@ Continuing to extend my track record of consistently improving individual and te
 
 My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.
 
+### <br>Professional Certifications
+
+**AWS Certified Solutions Architect Associate**<br>
+Expected June 2019
+
+**Certified Scrum Product Owner**<br>
+Awarded by ScrumAlliance on August 24, 2011
+
+**Certified Scrum Professional**<br>
+Awarded by ScrumAlliance on October 15, 2010
+
+**Certified Scrum Master**<br>
+Awarded by ScrumAlliance on March 31, 2009
+
+**Microsoft Certified Professional**<br>
+Awarded by Microsoft on July 29, 2002
+
+**IBM Certified Administrator - Rational Unified Change Management**<br>
+Awarded by IBM on December 1, 2008
+
+**IBM Certified Solution Designer - Rational Software Architect**<br>
+Awarded by IBM on January 28, 2008
+
+**IBM Certified Specialist - Rational Unified Process**<br>
+Awarded by IBM on May 2, 2007
+
+**IBM Certified Solution Designer - Rational Unified Process**<br>
+Awarded by IBM on April 25, 2007
+
+**IBM Certified Advanced Technical Expert - DB2 For Clusters**<br>
+Awarded by IBM on March 13, 2001
+
+**IBM Certified Advanced Technical Expert - DB2 Data Replication**<br>
+Awarded by IBM on January 22, 2001
+
+**IBM Certified Solution Technologist - e-business**<br>
+Awarded by IBM on January 16, 2001
+
+**IBM Certified Solutions Expert - Business Intelligence**<br>
+Awarded by IBM on November 22, 2000
+
+**IBM Certified Solutions Expert - DB2 UDB Application Development**<br>
+Awarded by IBM on February 25, 2000
+
+**IBM Certified Specialist - DB2 UDB**<br>
+Awarded by IBM on January 24, 2000
+
 ### <br>Professional Roles
 
 Following is a list of professional roles I have successfully fulfilled throughout my career.  The timeframe for some of these roles overlap (i.e. I concurrently fulfilled the roles of *Leader* and *Trainer*).
