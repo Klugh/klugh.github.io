@@ -1,10 +1,10 @@
 ### Leadership Summary
 
-Experienced software development and DevOps manager with 20+ years of experience delivering advanced software systems for small and large companies.  Strong leadership in the development of modern software solutions through clean, predictable, and testable code utilizing object-oriented design principles.  Full-stack Microsoft developer proficient in developing responsive user interfaces, web applications, web services, and relational database solutions.  Achieving rapid delivery with Azure Cloud Services through continuous integration with Git, automated builds, tests, deployments and scaling using Docker containers within fully managed Kubernetes clusters.
+Experienced software development and DevOps manager with 20+ years of experience delivering advanced software systems for small and large companies.  Strong leadership in the development of modern software solutions through clean, predictable, and testable code utilizing object-oriented design principles.  Full-stack Microsoft developer proficient in developing responsive user interfaces, web applications, web services, and relational database solutions.
 
 Continuing to extend my track record of consistently improving individual and team delivery, along with improvements in quality, predictability, and productivity.  I pride myself in succeeding where others have failed.  My work has impacted some of the world's top brands including Intel, IBM, Bayer, Fiserv, Wells Fargo, Bank of New York, and GoDaddy.com to name a few.
 
-My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.  I am a proponent of optimizing software delivery by running applications and services on self-managed containers, which has been one of the biggest advancements in DevOps to date.
+My passion lies in improving team performance, software quality, and productivity through effective integration of software engineering, Agile, and DevOps practices.
 
 ### <br>Professional Roles
 
