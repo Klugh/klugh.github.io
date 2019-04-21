@@ -39,6 +39,7 @@ Awarded by IBM on January 28, 2008
 **IBM Certified Specialist - Rational Unified Process**<br>
 Awarded by IBM on May 2, 2007
 
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Solution+Designer+-+Rational+Unified+Process.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSD-RUP.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Solution Designer - Rational Unified Process**<br>
 Awarded by IBM on April 25, 2007
 
