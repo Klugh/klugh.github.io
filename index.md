@@ -55,6 +55,7 @@ Awarded by IBM on January 22, 2001
 **IBM Certified Solution Technologist - e-business**<br>
 Awarded by IBM on January 16, 2001
 
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Solutions+Expert+-+Business+Intelligence.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSE-BI.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Solutions Expert - Business Intelligence**<br>
 Awarded by IBM on November 22, 2000
 
