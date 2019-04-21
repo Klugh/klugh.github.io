@@ -47,6 +47,7 @@ Awarded by IBM on April 25, 2007
 **IBM Certified Advanced Technical Expert - DB2 For Clusters**<br>
 Awarded by IBM on March 13, 2001
 
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Advanced+Technical+Expert+-+DB2+Data+Replication.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CATE-DataReplication.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Advanced Technical Expert - DB2 Data Replication**<br>
 Awarded by IBM on January 22, 2001
 
