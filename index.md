@@ -11,8 +11,15 @@ My passion lies in improving team performance, software quality, and productivit
 **AWS Certified Solutions Architect Associate**<br>
 Expected June 2019
 
-**Certified Scrum Product Owner**<br>
-Awarded by ScrumAlliance on August 24, 2011
+<table>
+  <tr>
+    <td><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSPO.jpg" height="50px" style="float:left; vertical-align: top"/></td>
+    <td>
+        <b>Certified Scrum Product Owner</b><br>
+        Awarded by ScrumAlliance on August 24, 2011
+    </td>
+  </tr>
+</table>
 
 **Certified Scrum Professional**<br>
 Awarded by ScrumAlliance on October 15, 2010
