@@ -35,6 +35,7 @@ Awarded by IBM on December 1, 2008
 **IBM Certified Solution Designer - Rational Software Architect**<br>
 Awarded by IBM on January 28, 2008
 
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Specialist+-+Rational+Unified+Process.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CS-RUP.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Specialist - Rational Unified Process**<br>
 Awarded by IBM on May 2, 2007
 
