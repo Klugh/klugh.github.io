@@ -51,6 +51,7 @@ Awarded by IBM on March 13, 2001
 **IBM Certified Advanced Technical Expert - DB2 Data Replication**<br>
 Awarded by IBM on January 22, 2001
 
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Solution+Technologist+-+e-business.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CST-eBusiness.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Solution Technologist - e-business**<br>
 Awarded by IBM on January 16, 2001
 
