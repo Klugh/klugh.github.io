@@ -31,6 +31,7 @@ Awarded by Microsoft on July 29, 2002
 **IBM Certified Administrator - Rational Unified Change Management**<br>
 Awarded by IBM on December 1, 2008
 
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Solution+Designer+-+Rational+Software+Architect.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/RSA.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Solution Designer - Rational Software Architect**<br>
 Awarded by IBM on January 28, 2008
 
