@@ -63,6 +63,7 @@ Awarded by IBM on November 22, 2000
 **IBM Certified Solutions Expert - DB2 UDB Application Development**<br>
 Awarded by IBM on February 25, 2000
 
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Specialist+-+DB2+UDB.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CS-DB2UDB.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Specialist - DB2 UDB**<br>
 Awarded by IBM on January 24, 2000
 
