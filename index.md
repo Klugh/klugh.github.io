@@ -43,6 +43,7 @@ Awarded by IBM on May 2, 2007
 **IBM Certified Solution Designer - Rational Unified Process**<br>
 Awarded by IBM on April 25, 2007
 
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Advanced+Technical+Expert+-+DB2+For+Clusters.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CATE-Clusters.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Advanced Technical Expert - DB2 For Clusters**<br>
 Awarded by IBM on March 13, 2001
 
