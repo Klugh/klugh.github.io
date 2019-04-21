@@ -133,29 +133,3 @@ Agile principles are intended to help deliver greater product quality while incr
 
 **Estimation Methods for Agile Development**<br>
 This course examines both time-based and relative estimation methods, along with the benefits and disadvantages of each. 
-
-### <br>Consumer Product Delivery
-
-**Intel® Rapid Storage Technology (RST)**<br>
-Rapid Storage Technology (RST) is a digital storage solution consisting of hardware, firmware, and software that provides protection, performance, and expandability for desktop, mobile, and server platforms. Intel® RST offers features that optimize performance and data reliability for disk-intensive retrieval by combining multiple hard disk drives (HDDs) and/or solid-state drives (SSDs) in multiple RAID configurations.
-
-**Intel® Smart Response Technology (SRT)**<br>
-Smart Response Technology (SRT) boosts performance by recognizing and automatically storing frequently used applications and data into a high performance SSD while providing full access to the large storage capacity of an HDD. This enables a lower-cost, small-capacity SSD to be used in conjunction with a high-capacity HDD, or integrated within a solid-state hybrid drive (SSHD).
-
-**Ipro Automated Digital Discovery (ADD)**<br>
-ADD® is an advanced eDiscovery workflow tool that orchestrates everything from media management, high-speed data processing, culling, and tracking, OCR processing, forensic file management, early case assessment, advanced analytical review, user and case management, along with production and case reporting.
-
-**Ipro eCapture™**<br>
-eCapture™ is an industry-leading, fully-automated, electronic evidence processing solution designed to perform electronic discovery, processing, and production tasks quickly and accurately.  eCapture streamlines the discovery workflow through discovery of hundreds of different electronic file types, while multi-threaded automated workers support a fully-distributed production environment.
-
-**Ipro Eclipse®**<br>
-Eclipse® is a web-based eDiscovery solution that provides computer-assisted review and advanced analytics to identify and thread email conversations, find and compare near duplicate documents, and cluster similar documents to streamline workflows, decrease review time, and increase accuracy.  This solution is built with innovative document categorization logic that prioritizes documents based on relevance through small sample sets, then sorts the population into categories, leaving irrelevant documents uncategorized…  achieving better reviews faster.
-
-[//]: # **Nationwide® acceleRATE**<br>
-[//]: # acceleRATE is a rating, issuance, and policy administration system used by general agents and program managers to sell insurance policies for property & casualty, garage, and personal lines in the Excess and Surplus market.
-
-[//]: # **Nationwide® Rate to Bind**<br>
-[//]: # Rate to Bind is a web application used by contract underwriting and general agents to rate, quote, and bind excess and umbrella coverage written over primary risks that meet program and non-program guidelines.
-
-[//]: # **Nationwide® Data Connect Program Rates Management**<br>
-[//]: # Data Connect Program Rates Management is a web application used to manage programs, territories, areas, class groups, and rates used by rating and issuance systems.
