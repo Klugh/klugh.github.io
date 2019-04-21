@@ -12,7 +12,7 @@ My passion lies in improving team performance, software quality, and productivit
 Expected June 2019
 
 <img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSPO.jpg" height="50px" style="float: left; margin-right: 20px"/>
-<b>Certified Scrum Product Owner</b><br>
+**Certified Scrum Product Owner**<br>
 Awarded by ScrumAlliance on August 24, 2011
 
 **Certified Scrum Professional**<br>
