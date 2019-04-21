@@ -11,6 +11,7 @@ My passion lies in improving team performance, software quality, and productivit
 **AWS Certified Solutions Architect Associate**<br>
 Expected June 2019
 
+<<<<<<< HEAD
 <table>
   <tr>
     <td><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSPO.jpg" height="50px"/></td>
@@ -20,6 +21,10 @@ Expected June 2019
     </td>
   </tr>
 </table>
+=======
+**Certified Scrum Product Owner**<br>
+Awarded by ScrumAlliance on August 24, 2011
+>>>>>>> parent of 35d726e... Added certificate image for CSPO
 
 **Certified Scrum Professional**<br>
 Awarded by ScrumAlliance on October 15, 2010
