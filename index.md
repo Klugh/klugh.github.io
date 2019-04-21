@@ -11,18 +11,18 @@ My passion lies in improving team performance, software quality, and productivit
 **AWS Certified Solutions Architect Associate**<br>
 Expected June 2019
 
-<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/ScrumAlliance+Certified+Scrum+Product+Owner.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSPO.jpg" height="50px" style="float: left; margin-right: 20px"/></a>
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/ScrumAlliance+Certified+Scrum+Product+Owner.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSPO.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **Certified Scrum Product Owner**<br>
 Awarded by ScrumAlliance on August 24, 2011
 
-<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/ScrumAlliance+Certified+Scrum+Professional.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSP.jpg" height="50px" style="float: left; margin-right: 20px"/></a>
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/ScrumAlliance+Certified+Scrum+Professional.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSP.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **Certified Scrum Professional**<br>
 Awarded by ScrumAlliance on October 15, 2010
 
 **Certified Scrum Master**<br>
 Awarded by ScrumAlliance on March 31, 2009
 
-<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/Microsoft+Certified+Professional.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/MCP.jpg" height="50px" style="float: left; margin-right: 20px"/></a>**Microsoft Certified Professional**<br>
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/Microsoft+Certified+Professional.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/MCP.jpg" width="60px" style="float: left; margin-right: 20px"/></a>**Microsoft Certified Professional**<br>
 Awarded by Microsoft on July 29, 2002
 
 **IBM Certified Administrator - Rational Unified Change Management**<br>
