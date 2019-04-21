@@ -24,10 +24,6 @@ Awarded by ScrumAlliance on October 15, 2010
 **Certified Scrum Master**<br>
 Awarded by ScrumAlliance on March 31, 2009
 
-<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/Microsoft+Certified+Professional.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/MCP.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
-**Microsoft Certified Professional**<br>
-Awarded by Microsoft on July 29, 2002
-
 <a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Administrator+-+Rational+Unified+Change+Management.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/UCM.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Administrator - Rational Unified Change Management**<br>
 Awarded by IBM on December 1, 2008
@@ -67,6 +63,10 @@ Awarded by IBM on February 25, 2000
 <a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/IBM+Certified+Specialist+-+DB2+UDB.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CS-DB2UDB.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **IBM Certified Specialist - DB2 UDB**<br>
 Awarded by IBM on January 24, 2000
+
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/Microsoft+Certified+Professional.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/MCP.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
+**Microsoft Certified Professional**<br>
+Awarded by Microsoft on July 29, 2002
 
 ### <br>Professional Roles
 
