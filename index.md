@@ -8,6 +8,7 @@ My passion lies in improving team performance, software quality, and productivit
 
 ### <br>Professional Certifications
 
+<img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/AWS.jpg" width="60px" style="float: left; margin-right: 20px"/>
 **AWS Certified Solutions Architect Associate**<br>
 Expected June 2019
 
