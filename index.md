@@ -19,6 +19,7 @@ Awarded by ScrumAlliance on August 24, 2011
 **Certified Scrum Professional**<br>
 Awarded by ScrumAlliance on October 15, 2010
 
+<a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/ScrumAlliance+Certified+Scrum+Master.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSM.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **Certified Scrum Master**<br>
 Awarded by ScrumAlliance on March 31, 2009
 
