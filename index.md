@@ -134,4 +134,4 @@ Agile principles are intended to help deliver greater product quality while incr
 **Estimation Methods for Agile Development**<br>
 This course examines both time-based and relative estimation methods, along with the benefits and disadvantages of each. 
 
-<img src="https://klugh.azureedge.net/public/images/Profile18Crop.jpg" style="margin-top: 30px; margin-bottom: 0px" />
+<img src="https://klugh.azureedge.net/public/images/Profile18Crop.jpg" style="border: solid 2px #222; margin-top: 30px; margin-bottom: 0px" />
