@@ -1,6 +1,6 @@
 ### Leadership Summary
 
-Experienced software development and DevOps manager with 20+ years of experience delivering advanced software systems for small and large companies.  Strong leadership in the development of modern software solutions through clean, predictable, and testable code utilizing object-oriented design principles.  Full-stack Microsoft developer proficient in developing responsive user interfaces, web applications, web services, and relational database solutions.
+Experienced software development and DevOps manager with 20+ years of experience delivering advanced software systems for small and large companies.  Strong leadership in the development of modern software solutions through clean, predictable, and testable code utilizing object-oriented design principles.  Microsoft developer proficient in developing responsive user interfaces, web applications, web services, along with relational and NoSQL database solutions.
 
 Continuing to extend my track record of consistently improving individual and team delivery, along with improvements in quality, predictability, and productivity.  I pride myself in succeeding where others have failed.  My work has impacted some of the world's top brands including Intel, IBM, Bayer, Fiserv, Wells Fargo, Bank of New York, and GoDaddy.com to name a few.
 
