@@ -10,7 +10,7 @@ My passion lies in improving team performance, software quality, and productivit
 
 <img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/AWS.jpg" width="60px" style="float: left; margin-right: 20px"/>
 **AWS Certified Solutions Architect Associate**<br>
-Expected August 2019
+Expected October 2019
 
 <a href="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/ScrumAlliance+Certified+Scrum+Product+Owner.pdf" target="_blank"><img src="https://s3-us-west-1.amazonaws.com/klugh/MyCertificates/thumbnails/CSPO.jpg" width="60px" style="float: left; margin-right: 20px"/></a>
 **Certified Scrum Product Owner**<br>
